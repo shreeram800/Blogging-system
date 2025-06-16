@@ -1,6 +1,3 @@
-Here's a **professional and clean `README.md`** for your blog platform backend built with Node.js, Express, Sequelize, and MySQL:
-
----
 
 ```markdown
 # 📝 Blog Platform Backend
